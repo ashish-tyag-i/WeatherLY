@@ -1,1 +1,1 @@
-# WeatherLY
+# Weatherly
