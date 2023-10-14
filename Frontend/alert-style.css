@@ -1,0 +1,10 @@
+table, th,td,thead,tr{
+    border: 1px solid #000000;
+    width: 100%;
+}
+/* .Table-head{
+   width: 90%;
+}
+.table-create{
+    width: 90%;
+} */
